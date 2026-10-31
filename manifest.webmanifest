@@ -1,6 +1,6 @@
 {
-  "name": "Architecture and Technology Quizzes · Quizze zu Architektur und Technologie",
-  "short_name": "Quiz",
+  "name": "Architecture and Technology · Architektur und Technologie",
+  "short_name": "A&T",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
